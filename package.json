@@ -1,0 +1,27 @@
+{
+  "name": "electron-example",
+  "version": "1.0.0",
+  "description": "An electron app example",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ashishgxzc/electron-app.git"
+  },
+  "keywords": [
+    "Electron",
+    "NodeJS"
+  ],
+  "author": "Ashish Gautam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishgxzc/electron-app/issues"
+  },
+  "homepage": "https://github.com/ashishgxzc/electron-app#readme",
+  "dependencies": {
+    "electron": "^9.0.2"
+  }
+}
